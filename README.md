@@ -1,4 +1,4 @@
-# ExerciciosHTML
+# Exercicios de HTML5
 
  Neste repositório encontram-se os projetos de sites que construí em cursos de HTML e CSS. 
  Atualmente, contém:
